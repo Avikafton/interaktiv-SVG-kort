@@ -1,0 +1,26 @@
+[
+  {
+    "id": "enghaveplads",
+    "titel": "Enghave Plads",
+    "tekst": "Enghave Plads er et af mine favoritsteder i byen. Her er der liv, caféer og en god stemning, og det er et sted jeg ofte kommer forbi i hverdagen. Det er også et sted, jeg er vokset op som barn og senere selv har boet, hvilket gør området helt særligt for mig.",
+    "billede": "enghaveplads"
+  },
+  {
+    "id": "enghavebrygge",
+    "titel": "Enghave Brygge",
+    "tekst": "Enghave Brygge er et roligt og hyggeligt område tæt på vandet, hvor jeg selv bor. Jeg nyder at gå ture langs havnen og slappe af i de rolige omgivelser, især når vejret er godt og stemningen ved vandet er ekstra hyggelig.",
+    "billede": "enghavebrygge"
+  },
+  {
+    "id": "christianshavn",
+    "titel": "Christianshavn",
+    "tekst": "Christianshavn er et smukt område fyldt med små, hyggelige kanaler. Her blandt kanalerne har min familie og jeg haft mange gode minder, da vi både har haft liggeplads til vores speedbåd og boet på husbåd. Området har en helt særlig stemning med vandet, de farverige huse og det rolige liv langs kajerne.",
+    "billede": "christianshavn"
+  },
+  {
+    "id": "lufthavn",
+    "titel": "Københavns Lufthavn",
+    "tekst": "Københavns Lufthavn forbinder mig med resten af verden og markerer starten på nye oplevelser og rejser.",
+    "billede": "lufthavn"
+  }
+]
