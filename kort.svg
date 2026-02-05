@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="kort" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+<svg id="kort" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080"> <image href="billeder/københavn-2-01.svg" width="100%" height="100%" />
   <g id="baggrund">
     <g id="Lag_4" data-name="Lag 4">
       <rect x="3.52" y="2.06" width="1920" height="1080" fill="#618bae"/>
